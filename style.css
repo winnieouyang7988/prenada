@@ -498,6 +498,9 @@ p{
 .poster .res{
 	display: none;
 }
+.poster .space{
+	display: none;
+}
 /*----------testimonials------------*/
 
 .testimonials{
@@ -698,6 +701,9 @@ p{
 		display: none;
 	}
 	.poster .res{
+		display: block;
+	}
+	.poster .space{
 		display: block;
 	}
 	.team .row{
