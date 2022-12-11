@@ -604,15 +604,18 @@ p{
 	margin: 0;
 	margin-left: 8%;
 	margin-right: 8%;
-	display: flex;
-	justify-content: space-between;
+
+	text-align: center;
 }
 .footer p{
 	padding: 16.5px;
 	margin: 0 10px;
 }
+.footer-col{
+	text-align: center;
+}
 
-.icons .fa-brands{
+/*.icons .fa-brands{
 	color: #fb7185;
 	font-size: 18px;
 	margin: 0 10px;
@@ -620,7 +623,7 @@ p{
 	padding: 20px;
 	flex: 1;
 	text-align: right;
-}
+}*/
 
 @media (max-width:767px) {
 	.text-box h1{
